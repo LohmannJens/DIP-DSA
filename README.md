@@ -3,8 +3,8 @@
 # Defective Interfering Particle Deletion Site Analyzer (DIP-DSA)
 
 This application allows the user to investigate datasets that include Defective
-Interfering Particles. It provides different analyses about the delVGs of these
-particles.
+Interfering Particles. It provides different analyses about the DelVGs of these
+particles. It includes the analyses made in our [manuscript](https://doi.org/10.1093/nargab/lqaf031).
 
 ## How to set up
 
